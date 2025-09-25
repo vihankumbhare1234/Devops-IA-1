@@ -57,9 +57,3 @@ This project demonstrates how to use **Fluentd** to collect logs from multiple s
 - `<match>` blocks define where logs are sent (Elasticsearch in this case).
 - Elasticsearch stores logs in **indices** with defined fields and data types.
 - Kibana provides a **graphical interface** to explore, filter, and visualize log data.
-
----
-
-**In simple words:**
-
-> This setup collects logs from multiple applications, organizes them in Elasticsearch, and lets you visualize them with Kibana — all in one centralized logging pipeline.
