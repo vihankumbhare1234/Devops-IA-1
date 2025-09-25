@@ -4,3 +4,6 @@
 {"time": "2025-09-23 18:08:53", "email": "admin@example.com", "status": "SUCCESS", "message": "Logged in successfully"}
 {"time": "2025-09-25 09:14:49", "email": "user1@example.com", "status": "SUCCESS", "message": "Logged in successfully"}
 {"time": "2025-09-25 09:15:10", "email": "user@gmail.com", "status": "FAILURE", "message": "Failed to login"}
+{"time": "2025-09-25 10:38:29", "email": "user1@example.com", "status": "SUCCESS", "message": "Logged in successfully"}
+{"time": "2025-09-25 10:38:53", "email": "user1@gmail.com", "status": "FAILURE", "message": "Failed to login"}
+{"time": "2025-09-25 10:39:16", "email": "admin@example.com", "status": "SUCCESS", "message": "Logged in successfully"}
